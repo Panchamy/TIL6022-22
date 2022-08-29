@@ -1,4 +1,4 @@
-# TIL6022-23
+# TIL6022-22
 
 This repository is for a TU Delft course - TIL Python Programming and will be used to share the datasets, course materials, python & git cheatsheets and used to share and tackle errors.
 
